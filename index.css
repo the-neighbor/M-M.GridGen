@@ -1,0 +1,8 @@
+.grid-parent {
+    width: 900px;
+    height: 900px;
+}
+.grid-child {
+    padding: 2em;
+    border-radius: 20px;
+}
